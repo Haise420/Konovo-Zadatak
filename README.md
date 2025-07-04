@@ -8,10 +8,10 @@ Backend je rađen u Django-u, a frontend u React-u (Create React App).
 # Pokretanje projekta
 
 ## 1. Kloniranje repozitorijuma
-
+```bash
   git clone https://github.com/Haise420/konovo_zadatak.git
-  cd Konovo-Zadatak
-
+  cd konovo_zadatak
+```
 
 ## 2. Pokretanje Django backenda
   (Prethodno instaliraj Python 3.10+ i pip)
