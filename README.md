@@ -6,7 +6,7 @@ Ovaj projekat je Full-Stack aplikacija napravljena u okviru zadatka.
 Backend je rađen u Django-u, a frontend u React-u (Create React App).
 
 Pokretanje projekta
-1. Kloniranje repozitorijuma
+#1. Kloniranje repozitorijuma
 bash
 Copy
 Edit
@@ -14,7 +14,7 @@ git clone https://github.com/Haise420/Konovo-Zadatak.git
 cd Konovo-Zadatak
 
 
-2. Pokretanje Django backenda
+#2. Pokretanje Django backenda
 (Prethodno instaliraj Python 3.10+ i pip)
 
 Instaliraj Python zavisnosti:
@@ -24,7 +24,7 @@ Copy
 Edit
 python -m venv venv
 venv\Scripts\activate      # na Windowsu
-# source venv/bin/activate  # na Linux/Mac
+source venv/bin/activate  # na Linux/Mac
 
 pip install -r requirements.txt
 Pokreni migracije i Django server:
@@ -37,7 +37,7 @@ python manage.py runserver
 Backend će biti dostupan na http://127.0.0.1:8000
 
 
-3. Pokretanje React frontenda
+#3. Pokretanje React frontenda
 U drugom terminalu, uđi u frontend folder:
 
 bash
