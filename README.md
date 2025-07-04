@@ -30,7 +30,7 @@ Backend je rađen u Django-u, a frontend u React-u (Create React App).
   python manage.py runserver
    ```
   
-  ### Backend će biti dostupan na http://127.0.0.1:8000
+  #### Backend će biti dostupan na http://127.0.0.1:8000
 
 
 ## 3. Pokretanje React frontenda
